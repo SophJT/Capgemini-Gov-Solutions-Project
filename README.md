@@ -1,2 +1,2 @@
-# Movie-Genre-Visual-Analysis
-In this project, I decide to take a look at different movie genres and compare them to different years in terms of their average rating as well as most popular/frequently used actors across different genres.
+# Hi! I'm Sophia!
+I am currently a Junior Data Analytics Major at Dickinson College. I have completed both group and personal prjects in SQL, Python, and R. My projects include a range of both visual and predictive analysis. 
